@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <guau.com.mascota.RoundedImageView
+        android:id="@+id/grid_item_image"
+        android:layout_width="150px"
+        android:layout_height="150px"
+        android:layout_marginRight="10px"
+        android:layout_marginBottom="10px"
+        android:src="@drawable/perro_perdido">
+    </guau.com.mascota.RoundedImageView>
+
+
+    <TextView
+        android:id="@+id/grid_item_label"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Perdidos"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:textSize="22px"></TextView>
+
+</LinearLayout>

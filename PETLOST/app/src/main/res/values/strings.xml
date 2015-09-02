@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mascota</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_perdidos">PerdidosActivity</string>
+    <string name="title_activity_nuevo_perro">NuevoPerroActivity</string>
+    <string name="title_activity_avistados">AvistadosActivity</string>
+    <string name="title_activity_nueva_mascota">NuevaMascotaActivity</string>
+    <string name="title_activity_nuevo_perdido">NuevoPerdidoActivity</string>
+    <string name="title_activity_mascota">MascotaActivity</string>
+</resources>

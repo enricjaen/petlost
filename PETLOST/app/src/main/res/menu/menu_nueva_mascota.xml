@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="guau.com.mascota.NuevaMascotaActivity">
+    <item
+        android:id="@+id/publicar"
+        app:showAsAction="always"
+        android:icon="@drawable/accept_round_32"
+        android:orderInCategory="100"
+        android:title="publicar" />
+
+</menu>
